@@ -1,0 +1,7 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe con làn đối diện ở xa,added,Thêm box cho xe bị AI bỏ sót dựa trên cụm đèn và viền thân xe đoán được
+1,frame_0107.jpg,xe con bị cắt ở mép phải ảnh,edited,Thu nhỏ box chỉ bao trọn phần thân xe nằm trong mép ảnh
+1,frame_0182.jpg,xe tải chạy phía trước cùng chiều,edited,Chỉnh lại box ôm sát thân xe và loại bỏ vệt sáng đèn pha trên mặt đường
+1,frame_0312.jpg,vệt ánh đèn phản chiếu trên mặt đường,deleted, Xóa box gán nhầm vì ánh đèn phản chiếu mặt đường không phải là xe
+1,frame_0331.jpg,hai xe con sát nhau bị gộp chung,added,Tách và thêm box riêng cho từng xe đứng sát nhau thay vì để một box gộp
+1,frame_0369.jpg,xe con rõ nét,accepted,Giữ nguyên box AI đề xuất vì đã bao trọn thân xe và đúng ranh giới
